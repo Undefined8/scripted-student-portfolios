@@ -34,3 +34,8 @@
 }
 
 /* Place your styles below this line */
+#student6 {
+  outline: 5px solid green;
+  background-position: left -10px bottom 50px;
+  background-image: url('http://i.imgur.com/ECztVHf.gif');
+}
